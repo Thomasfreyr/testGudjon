@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  DeleteRecordofFileEx.cpp
+DeleteRecordofFileEx.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Project1.vcxproj -> C:\Users\thomas\source\repos\TestGudjon\Project1\Debug\Project1.exe
